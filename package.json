@@ -1,0 +1,8 @@
+﻿{
+  "name": "com.gcenter.mypackage",
+  "version": "1.0.0",
+  "displayName": "My Package",
+  "description": "Mô tả ngắn về package",
+  "unity": "2022.3",
+  "dependencies": {}
+}
